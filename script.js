@@ -71,6 +71,7 @@ function doReset() {
     bill.placeholder=0.0
     people.value=''
     people.placeholder = 0
+    updateCounter()
 }
 
 updateCounter()
